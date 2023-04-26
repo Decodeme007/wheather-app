@@ -1,7 +1,6 @@
 
 # Hi, I'm Manish! 👋
-    I am web developer and in this site
-    I try to explore CSS and it's core strength.
+    I am web developer
 
 # weather app
 This Website is purely made on django.
@@ -14,6 +13,6 @@ Django, Javascript, HTML, CSS...
 
 ## Screenshots
     Landing Section
-![App Screenshot](https://github.com/Decodeme007/DigitalHome.github.io/blob/main/assets/Screenshot/digital%20website%20ss1.png)
+![App Screenshot](https://github.com/Decodeme007/wheather-app/blob/main/static/Screenshot%20(1309).png)
 
 
